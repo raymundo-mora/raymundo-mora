@@ -59,7 +59,7 @@
             <body>
                 <div id="main">
                     <h1>Coming Soon</h1>
-                    <div id="progress"><div id="fill"><div id="barpercent"><div  animation-iteration-count: infinite><h3>35%</h3></div></div></div>
+                    <div id="progress"><div id="fill"><div id="barpercent"><div  animation-iteration-count="infinite"><h3>35%</h3></div></div></div>
                     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400" rel="stylesheet" />
                 </div>
             </body>
