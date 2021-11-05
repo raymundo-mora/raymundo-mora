@@ -1,1 +1,1 @@
-<div class="loading">Loading</div>
+![Alt text](./assets/loading/index.svg)
