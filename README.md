@@ -6,3 +6,19 @@
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
 <a href="https://www.linkedin.com/in/raymundo-mora/"><img src="https://user-images.githubusercontent.com/92943544/140461482-aa8e1275-c852-489a-897a-64da462987df.png" style="width:101.12962963px; height:86px" title="LinkedIn" alt="LinkedIn"></a>
 
+<style>
+    .loading:after {
+      display: inline-block;
+      animation: dotty steps(1,end) 1s infinite;
+      content: '';
+    }
+
+    @keyframes dotty {
+        0%   { content: ''; }
+        25%  { content: '.'; }
+        50%  { content: '..'; }
+        75%  { content: '...'; }
+        100% { content: ''; }
+    }
+</style>
+<div class="loading">Loading</div>
