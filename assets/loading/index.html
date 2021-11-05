@@ -50,6 +50,28 @@
             animation: fadein 3s forwards;
         }
 
+        .loader { 
+                    --p: 0;
+                    animation: p 3s steps(100) infinite;
+                    counter-reset: p var(--p); 
+                    color:white;
+                    margin: 0; padding: 0;
+                    opacity: 1;
+                    
+                
+                }
+        .loader:after {
+            content: counter(p) "%";
+        }
+
+        @keyframes p{
+            99.999%,
+            100% {
+                --p: 100;
+            }
+
+        }
+
         /* Fades in animation */
         @keyframes fadein  {
             from { opacity: 0; }
@@ -80,8 +102,16 @@
 <body>
     <div id="main">
         <h1>Coming Soon</h1>
-        <div id="progress"><div id="fill"><div id="barpercent"><h3>35%</h3></div></div>
+        <div id="progress"><div id="fill"><div id="barpercent"><div class="loader" style="--n 1; --f: 0;"></div></div></div></div>
     </div>
+    <script>
+        CSS.registerProperty({
+            name: "--p",
+            syntax: "<integer>",
+            initialValue: 0,
+            inherits: true,
+        });
+    </script>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 </body>
 </html>
