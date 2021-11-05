@@ -10,7 +10,7 @@
                     text-align: center;
                     display: table;
                     opacity: 1;
-                    animation: fadein 3s forwards infinite;
+                    animation: fadein 3s forwards;
                 }
                 h2 {
                     font-weight: 300;
@@ -38,7 +38,7 @@
                     background-color: #00b98b; /* Fill colour */
                     width: 35%; /* Bar percentage, change text below also */
                     border-radius: 25px; /* Roundness */
-                    animation: proanimate 2s;
+                    animation: proanimate 2s infinite;
                 }
                 #barpercent h3 {
                     color: white; /* Bar percentage text colour */
