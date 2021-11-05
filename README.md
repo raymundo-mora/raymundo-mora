@@ -1,5 +1,6 @@
 ![Hi! I'm Raymundo Mora (1)](https://user-images.githubusercontent.com/92943544/140455801-b87ee727-bb4c-4645-9bf7-f4fc4609c155.gif)
-
+# About Me 
+[=100% "Coming Soon"]{: .candystripe .candystripe-animate}
 
 # Socials
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
