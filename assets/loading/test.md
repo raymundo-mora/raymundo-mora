@@ -1,1 +1,1 @@
-![Alt text](./assets/loading/index.svg)
+![Alt text](index.svg)
