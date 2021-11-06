@@ -26,7 +26,16 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [<p align="center"><img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="600"  /></p>](https://apod.nasa.gov/apod/astropix.html)
+
 # Socials
+Thank you for reaching the end of my README! Feel free to take a look at NASA's Astronomy Picture of the Day below and to follow me on my other professional social media accounts below! Let's begin exploring! <p align=right"><img src="https://user-images.githubusercontent.com/92943544/140619418-460da563-a9ab-428f-90ad-60348ea46594.gif" alt="Bitmoji" width="600"  /></p>
+
+
+![bitmoji](https://user-images.githubusercontent.com/92943544/140619418-460da563-a9ab-428f-90ad-60348ea46594.gif)
+
+
+[<p align="center"><img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="600"  /></p>](https://apod.nasa.gov/apod/astropix.html)
+
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
 <a href="https://www.linkedin.com/in/raymundo-mora/"><img src="https://user-images.githubusercontent.com/92943544/140461482-aa8e1275-c852-489a-897a-64da462987df.png" style="width:101.12962963px; height:86px" title="LinkedIn" alt="LinkedIn"></a>
 
