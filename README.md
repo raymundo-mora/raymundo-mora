@@ -18,8 +18,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=ibmwatson&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![IBMWatson](https://img.shields.io/badge/-IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-2F6D92?style=for-the-badge&lColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-3580AD?style=for-the-badge&lColor=white)
+![photutils](https://img.shields.io/badge/photutils-F7622F?style=for-the-badge&lColor=white)
+![iraf](https://img.shields.io/badge/iraf-696E76?style=for-the-badge&lColor=white)
 [![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat-square)](http://www.astropy.org/)
-`seaborn` `matplotlib` `photutils` `IRAF`
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 [<p align="center"><img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="600"  /></p>](https://apod.nasa.gov/apod/astropix.html)
 # Socials
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
