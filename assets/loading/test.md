@@ -1,2 +1,2 @@
-![Alt text](./index.svg)
+![Alt text](./coming-soon.svg)
 
