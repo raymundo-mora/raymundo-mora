@@ -10,9 +10,9 @@
 
 # Current Projects 
 
-## * [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
 
-\* Hosted by [DrivenData](https://www.drivendata.org/)
+* ##  [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+Hosted by [DrivenData](https://www.drivendata.org/)
 
 # Currently Learning
 
