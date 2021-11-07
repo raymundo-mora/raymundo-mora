@@ -14,6 +14,11 @@
 
 \* Hosted by [DrivenData](https://www.drivendata.org/)
 
+# Currently Learning
+
+![coming-soon](/assets/loading/coming-soon.svg)
+
+
 # Programming & Formatting Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
