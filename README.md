@@ -5,14 +5,13 @@
 
 # Pinned Projects
 ## 1. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) 
-## 2. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning:%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines)
+## 2. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning:%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines) <sup>1</sup>
 
 
 # Current Projects 
 
 
-* ##  [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
-Hosted by [DrivenData](https://www.drivendata.org/)
+* ##  [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) <sup>1</sup>
 
 # Currently Learning
 
@@ -52,5 +51,6 @@ ___
 
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
 <a href="https://www.linkedin.com/in/raymundo-mora/"><img src="https://user-images.githubusercontent.com/92943544/140461482-aa8e1275-c852-489a-897a-64da462987df.png" style="width:101.12962963px; height:86px" title="LinkedIn" alt="LinkedIn"></a>
-
+___
+1. Hosted by [DrivenData](https://www.drivendata.org/)</br>
 
