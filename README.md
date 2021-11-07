@@ -1,15 +1,18 @@
 ![counter](https://komarev.com/ghpvc/?username=raymundo-mora)
 ![Hi! I'm Raymundo Mora](https://user-images.githubusercontent.com/92943544/140455801-b87ee727-bb4c-4645-9bf7-f4fc4609c155.gif)
 # About Me 
-### I'm a recent graduate formally trained in astronomy with a passion for uncovering truths lying behind raw data. I'm a strong believer in the fact that the better we understand the world around us, the better we are able to make informed decisions on how to improve 
+### I'm a recent graduate formally trained in astronomy with a passion for uncovering truths lying behind raw data. I'm a strong believer in the fact that the better we understand the world around us, the better we are able to make informed decisions on how to improve our own lives and that of those around us. I have a strong interest in physics, math, and astronomy. This combination of interests has recently led me to begin diving into the world of machine and deep learning to take them to the next level of analysis. My [*Projects*](https://github.com/raymundo-mora/Projects) repository contains directories for past and current projects I've worked on as part of my academic journey as well as independent projects for my own self-improvement. 
 
 # Pinned Projects
 ## 1. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) 
+## 2. 
+
 
 # Current Projects 
 
-![coming soon](/assets/loading/coming-soon.svg)
+## * [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
 
+\* Hosted by [DrivenData](https://www.drivendata.org/)
 
 # Programming & Formatting Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
