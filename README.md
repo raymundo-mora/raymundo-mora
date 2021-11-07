@@ -1,5 +1,5 @@
 ![counter](https://komarev.com/ghpvc/?username=raymundo-mora)
-![Hi! I'm Raymundo Mora (1)](https://user-images.githubusercontent.com/92943544/140455801-b87ee727-bb4c-4645-9bf7-f4fc4609c155.gif)
+![Hi! I'm Raymundo Mora](https://user-images.githubusercontent.com/92943544/140455801-b87ee727-bb4c-4645-9bf7-f4fc4609c155.gif)
 # About Me 
 ### I'm a recent graduate formally trained in astronomy with a passion for uncovering truths lying behind raw data. I'm a strong believer in the fact that the better we understand the world around us, the better we are able to make informed decisions on how to improve 
 
