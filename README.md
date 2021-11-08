@@ -14,8 +14,31 @@
 * ##  [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) <sup>1</sup>
 
 # Currently Learning
+* ## [IBM Data Science Professional Certificate](coursera.org/professional-certificates/ibm-data-science)</br>
+  * <details>
+    <summary>Courses</summary>
 
-![coming-soon](/assets/loading/coming-soon.svg)
+    | Course | Certificate |
+    | ------- | ------------ |
+    | [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MYLX3VZVBFAG) |
+    | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JEKEFNBP4PKR) |
+    | [Data Science  Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) | Pending |
+    | [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science) | Pending |
+    | [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science) | Pending |
+    | [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science) | Pending |
+    | [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science) | Pending |
+    | [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization?specialization=ibm-data-science) | Pending |
+    | [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science) | Pending |
+    | [Applied Data Sciencce Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science) | Pending |
+  
+    </details>
+
+* ## [Linear Algebra for Data Scientists](https://datascience.virginia.edu/pages/linear-algebra-data-scientists)
+  * <details>
+    <summary>Summary</summary>
+  
+    I am currently enrolled in this 8 week bootcamp through the University of Virginia to meet all of their pre-requisites for applying to the [MSDS](https://datascience.virginia.edu/degrees/msds) program for the session beginning Summer '22.
+    </details>
 
 
 # Programming & Formatting Languages
