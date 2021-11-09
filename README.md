@@ -22,7 +22,7 @@
     | ------- | ------------ |
     | [What is Data Science?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MYLX3VZVBFAG) |
     | [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JEKEFNBP4PKR) |
-    | [Data Science  Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) | Pending |
+    | [Data Science  Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/RMGV8NH6XRU4) |
     | [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science) | Pending |
     | [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science) | Pending |
     | [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science) | Pending |
