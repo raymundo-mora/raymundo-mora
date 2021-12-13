@@ -4,7 +4,7 @@
 ### I'm a recent graduate formally trained in astronomy with a passion for uncovering truths lying behind raw data. I'm a strong believer in the fact that the better we understand the world around us, the better we are able to make informed decisions on how to improve our own lives and that of those around us. I have a strong interest in physics, math, and astronomy. This combination of interests has recently led me to begin diving into the world of machine and deep learning to take them to the next level of analysis. My [*Projects*](https://github.com/raymundo-mora/Projects) repository contains directories for past and current projects I've worked on as part of my academic journey as well as independent projects for my own self-improvement. 
 
 # Pinned Projects
-## 1. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) 
+## 1. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) & [M33](https://github.com/raymundo-mora/Projects/tree/main/M33_GCs)
 ## 2. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning:%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines) <sup>1</sup>
 
 
