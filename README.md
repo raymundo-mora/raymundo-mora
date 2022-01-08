@@ -32,12 +32,13 @@
     | [Applied Data Sciencce Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science) | Pending |
   
     </details>
-
+    
+# Completed Courses
 * ## [Linear Algebra for Data Scientists](https://datascience.virginia.edu/pages/linear-algebra-data-scientists)
   * <details>
     <summary>Summary</summary>
   
-    I am currently enrolled in this 8 week bootcamp through the University of Virginia to meet all of their pre-requisites for applying to the [MSDS](https://datascience.virginia.edu/degrees/msds) program for the session beginning Summer '22.
+    Completed this 8 week bootcamp through the University of Virginia to meet all of their pre-requisites for applying to the [MSDS](https://datascience.virginia.edu/degrees/msds) program for the session beginning Summer '22. The bootcamp covers essential linear algebra topics for data science. 
     </details>
 
 
