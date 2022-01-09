@@ -34,11 +34,12 @@
     </details>
     
 # Completed Courses
-* ## [Linear Algebra for Data Scientists](https://datascience.virginia.edu/pages/linear-algebra-data-scientists)
+* ## [Linear Algebra for Data Scientists](https://datascience.virginia.edu/pages/linear-algebra-data-scientists) | [Certificate](https://github.com/raymundo-mora/raymundo-mora/blob/main/assets/certificates/UVA%20Linear%20Algebra%20for%20Data%20Scientists%20-%20Mora%2C%20Raymond.pdf)
   * <details>
     <summary>Summary</summary>
   
     Completed this 8 week bootcamp through the University of Virginia to meet all of their pre-requisites for applying to the [MSDS](https://datascience.virginia.edu/degrees/msds) program for the session beginning Summer '22. The bootcamp covers essential linear algebra topics for data science. 
+
     </details>
 
 
