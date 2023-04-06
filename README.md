@@ -5,7 +5,7 @@
 
 # Pinned Projects
 ## 1. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) & [M33](https://github.com/raymundo-mora/Projects/tree/main/M33_GCs)
-## 2. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning:%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines) <sup>1</sup>
+## 2. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning%20-%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines) <sup>1</sup>
 
 
 # Current Projects 
