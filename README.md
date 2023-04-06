@@ -11,7 +11,7 @@
 # Current Projects 
 
 
- ##  [Analyzing Saved Track Lyrics: Spotify Users](https://github.com/raymundo-mora/Projects/tree/main/Spotify%20Topic%20Models) <sup>1</sup>
+ ##  [Analyzing Saved Track Lyrics: Spotify Users](https://github.com/raymundo-mora/Projects/tree/main/Spotify%20Topic%20Models)
 
 # Currently Learning
 * ## [IBM Data Science Professional Certificate](coursera.org/professional-certificates/ibm-data-science)</br>
