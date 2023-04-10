@@ -73,10 +73,10 @@
 # Socials
 ### Thank you for reaching the end of my README.md! Feel free to take a look at NASA's Astronomy Picture of the Day and follow me on my other professional social media accounts below! Let's begin exploring! <img src="https://user-images.githubusercontent.com/92943544/140619418-460da563-a9ab-428f-90ad-60348ea46594.gif" alt="Bitmoji" align="right" width="200"/>
 
+<br>
+<br>
 
-[<p align="center"><img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="600"  /></p>](https://api.nasa.gov/planetary/apod)
-
-
+![<p align="center"><img src="http://raymundomora.tech/images/apod.jpg" alt="NASA's Astronomy Picture of the Day" width="200"  /></p>](http://raymundomora.tech/images/apod.jpg)
 ___
 
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
