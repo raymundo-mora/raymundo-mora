@@ -4,8 +4,11 @@
 ### Currently a Master's of Data Science student in the School of Data Science at the University of Virginia. I enjoy extracting insight and narratives hiding in all things data. Particularly interested in machine learning engineering and using the latest architectures to improve operations. I have a strong interest in physics, math, and astronomy. My [*Projects*](https://github.com/raymundo-mora/Projects) repository contains directories for past and current projects I've worked on as part of my academic journey as well as independent projects for my own self-improvement. 
 
 # Pinned Projects
-## 1. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) & [M33](https://github.com/raymundo-mora/Projects/tree/main/M33_GCs)
-## 2. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning%20-%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines) <sup>1</sup>
+
+## 1.  [Analyzing Saved Track Lyrics: Spotify Users](https://github.com/raymundo-mora/Projects/tree/main/Analyzing%20Lyrics%20in%20Personal%20Spotify%20Libraries)
+
+## 2. [Undergraduate Thesis](https://github.com/raymundo-mora/Projects/tree/main/Undergraduate_Thesis) & [M33](https://github.com/raymundo-mora/Projects/tree/main/M33_GCs)
+## 3. [Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines](https://github.com/raymundo-mora/Projects/tree/main/Flu%20Shot%20Learning%20-%20Predict%20H1N1%20and%20Seasonal%20Flu%20Vaccines) <sup>1</sup>
 
 
 # Current Projects 
