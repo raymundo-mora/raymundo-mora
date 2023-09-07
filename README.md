@@ -79,7 +79,7 @@
 <br>
 <br>
 
-![<p align="center"><img src="http://raymundomora.tech/images/apod.jpg" alt="NASA's Astronomy Picture of the Day" width="200"  /></p>](http://raymundomora.tech/images/apod.jpg)
+![dfd](http://raymundomora.tech/images/apod.jpg)
 ___
 
 <a href="https://www.instagram.com/theraymundomora/"><img src="https://user-images.githubusercontent.com/92943544/140460116-71fa1625-18f6-4f6f-9844-9d72308b45c1.png" style="width:82px; height:86px" title="Instagram" alt="Instagram"></a> 
